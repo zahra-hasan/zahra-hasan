@@ -4,7 +4,7 @@
     - Web3 and blockchain technology.  
     - HTML and CSS.  
     - full-stack development.  
-- 🌱 I’m currently a student at the University of Sheffield and learning Java/Python/Haskell/HTML/CSS/Ruby.
+- 🌱 I’m a CS&AI graduate from the University of Sheffield (Java/Python/Haskell/HTML/CSS/Ruby/JS/C#).
 
 <!---
 zahra-hasan/zahra-hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
