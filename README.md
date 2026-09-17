@@ -6,7 +6,7 @@
 
 - 🌱 CS & AI graduate from the University of Sheffield.
 
-- 🛠 Tech stack: TypeScript, C# (.NET), Go, React/Next.js, Docker.
+- 🛠 Tech stack: TypeScript, React/Next.js.
 
 <!---
 zahra-hasan/zahra-hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
