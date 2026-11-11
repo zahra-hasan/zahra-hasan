@@ -6,7 +6,7 @@ Software Engineer and an artist at heart!
 - **AI Evidence Checker for medical content** – async RAG and agentic evaluation service. I built the
   foundational app and Azure infrastructure (Terraform), a NICE guidance ingestion pipeline
   with hash-based incremental updates, and the Azure AI Search indexing path
-  (chunking → embeddings → vector retrieval).
+  (chunking → embeddings → vector retrieval). I've also ran experiments to evaluate which model/configurations was best for this use case.
 
 ### Interested in
 Agentic AI · Consulting · Safe AI for real world applications
