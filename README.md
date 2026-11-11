@@ -1,6 +1,6 @@
 # Hi, I'm Zahra 👋
 
-Software Engineer and an artist at heart
+Software Engineer and an artist at heart!
 
 ### What I've worked on professionally
 - **AI Evidence Checker for medical content** – async RAG and agentic evaluation service. I built the
@@ -9,7 +9,10 @@ Software Engineer and an artist at heart
   (chunking → embeddings → vector retrieval).
 
 ### Interested in
-Agentic AI · RAG systems · event-driven backends · cloud infrastructure as code
+Agentic AI · Consulting · Safe AI for real world applications
+
+### Currently working on
+Building my own corner of the internet to share my personal tech projects and art 🖼️
 
 ### Stack
 **Languages:** Python · TypeScript · C# (.NET)
